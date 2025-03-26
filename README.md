@@ -10,3 +10,9 @@
 <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=albiecr&theme=jolly"/>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albiecr/albicr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albiecr/albiecr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/albiecr/albiecr/output/github-contribution-grid-snake.svg">
+</picture>
