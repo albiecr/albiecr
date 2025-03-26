@@ -1,16 +1,12 @@
-## Hi there 👋
+<img width="100%" bottom=50px src ="https://github.com/user-attachments/assets/30b5664c-ac87-49d9-bc97-5f5902c32ac4"/>
+<br>
+<br>
+<div align = "center"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=45&pause=1000&color=EF82F7&width=480&height=60&lines=Welcome+to+my+profile!+" alt="Typing SVG" /></a>
+<br>
+<br>
 
-<!--
-**albiecr/albiecr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=albiecr&theme=jolly"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
