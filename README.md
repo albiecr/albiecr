@@ -36,6 +36,7 @@ Main Skills:
 <div align = "left">
 <br>
 <br>
+<br>
 Studying:
 <br>
 <img align = "left" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
