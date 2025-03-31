@@ -30,35 +30,30 @@
 <h2>Contact me: </h2>
   <a href = "mailto:albertinacrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/albertina-rodrigues-a446a8282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
 </div>
 
 <div align = "left">
-<br>
 <h2>Main Skills: </h2>
-  <img align = "left" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align = "left" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align = "left" src = "https://img.shields.io/badge/Power_Query-287233?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align = "left" src = "https://img.shields.io/badge/Power_BI-F5C207?style=for-the-badge&logo=power-bi&logoColor=white" />
-  <img align = "left" src = "https://img.shields.io/badge/Power_Automate-00A1F1?style=for-the-badge&logo=power-automatel&logoColor=white" />
-  <img align = "left" src = "https://img.shields.io/badge/Power_Apps-993399?style=for-the-badge&logo=power-appsl&logoColor=white" />
-  <img align = "left" src = "https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-
+  <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Power_Query-287233?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Power_BI-F5C207?style=for-the-badge&logo=power-bi&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Power_Automate-00A1F1?style=for-the-badge&logo=power-automatel&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Power_Apps-993399?style=for-the-badge&logo=power-appsl&logoColor=white" />
+  <img src = "https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </div>
 
 
 <div align = "left">
-<br>
-<br>
-<br>
 <h2>Studying: </h2>  
-<img align = "left" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align = "left" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align = "left" src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-
-</div>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <br>
+<br>
+</div>
+<div align = "center">
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&background=DD11FF&center=true&vCenter=true&width=435&lines=Feeding+my+little+snake+%F0%9F%90%8D" alt="Typing SVG" /></a></h2></div> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albiecr/albicr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albiecr/albiecr/output/github-contribution-grid-snake.svg">
@@ -66,11 +61,15 @@
 </picture>
 <br>
 <br>
-
+<div align = "center">
+<h2><a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&background=DD11FF&center=true&vCenter=true&width=435&lines=Visit+Counter" alt="Typing SVG"/></a></h2></div> 
 <p align = "center"><img src ="https://github.com/user-attachments/assets/5456cd8f-68a5-483a-a5f1-3349e71182ae" /></p>
 <p align = "center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falbiecr&s=50&c=ff78cb&bg=00000000&no=2&ff=alien&tb=&ta=+visitors" alt="visits"></p>
 <div align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+me!" alt="Typing SVG" /></a>
 </div>
-<img width="100%" bottom=50px src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF78CB&section=footer&reversal=false&descAlign=22&descAlignY=42"/>
 <div>
+<div align = "center">
+💖💖💖
+<img width="100%" bottom=50px src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF78CB&section=footer&reversal=false&descAlign=22&descAlignY=42"/>
+
