@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-<h2>📊 Statisc: </h2>
+<h2>📊 Statiscs </h2>
 <div align = "center" style="display: block">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=albiecr&theme=jolly&hide_border=false"/>
 <br>
@@ -29,13 +29,13 @@
 </div>
 
 <div align = "left">
-<h2>📧 Contact me: </h2>
+<h2>📧 Contact me </h2>
   <a href = "mailto:albertinacrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/albertina-rodrigues-a446a8282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align = "left">
-<h2>📌 Main Skills: </h2>
+<h2>📌 Main Skills </h2>
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src = "https://img.shields.io/badge/Power_Query-287233?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -47,7 +47,7 @@
 
 
 <div align = "left">
-<h2>💻 Studying: </h2>  
+<h2>💻 Studying </h2>  
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
