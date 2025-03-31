@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-<h2>📊 Statiscs </h2>
+<h2>📊 Statistics </h2>
 <div align = "center" style="display: block">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=albiecr&theme=jolly&hide_border=false"/>
 <br>
