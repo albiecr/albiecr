@@ -21,9 +21,9 @@
 <br>
 <br>
 <br>
-<div align = "center" style="display: inline-block">
-<img width=400px height= 150px src="https://github-readme-streak-stats.herokuapp.com/?user=albiecr&theme=jolly&hide_border=false&layout=compact">
-<img widht=100px height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=albiecr&theme=jolly&show_icons=true&hide_border=false&layout=compact">
+<div align = "center" style="display: block">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=albiecr&theme=jolly&hide_border=false"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albiecr&theme=jolly&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 <div align = "left">
