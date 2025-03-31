@@ -2,7 +2,7 @@
 
 
 <div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=45&pause=1000&color=EF82F7&width=480&height=60&lines=Welcome+to+my+profile!+" alt="Typing SVG" /></a></div>
+<a href="https://github.com/albiecr"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=45&pause=1000&color=EF82F7&width=480&height=60&lines=Welcome+to+my+profile!+" alt="Typing SVG" /></a></div>
 <img align = "right" height = "380" src = "https://github.com/user-attachments/assets/02d88568-26d1-4c8e-a5cf-dfcb69dc27ed" />
 <h2> <img width="3%" src = "https://github.com/user-attachments/assets/4b13fcf2-4db6-4355-83f2-36ff9d247b67" /> Albertina Rodrigues </h2>
 <p>
@@ -53,7 +53,7 @@
 <br>
 </div>
 <div align = "center">
-<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&background=DD11FF&center=true&vCenter=true&width=435&lines=Feeding+my+little+snake+%F0%9F%90%8D" alt="Typing SVG" /></a></h2></div> 
+<h2><a href="https://github.com/albiecr"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&background=DD11FF&center=true&vCenter=true&width=435&lines=Feeding+my+little+snake+%F0%9F%90%8D" alt="Typing SVG" /></a></h2></div> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albiecr/albicr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albiecr/albiecr/output/github-contribution-grid-snake.svg">
@@ -61,12 +61,14 @@
 </picture>
 <br>
 <br>
+
 <div align = "center">
-<h2><a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&background=DD11FF&center=true&vCenter=true&width=435&lines=Visit+Counter" alt="Typing SVG"/></a></h2></div> 
+<h2><a href="https://github.com/albiecr><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&background=DD11FF&center=true&vCenter=true&width=435&lines=Visit+Counter" alt="Typing SVG"/></a></h2></div> 
 <p align = "center"><img src ="https://github.com/user-attachments/assets/5456cd8f-68a5-483a-a5f1-3349e71182ae" /></p>
 <p align = "center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falbiecr&s=50&c=ff78cb&bg=00000000&no=2&ff=alien&tb=&ta=+visitors" alt="visits"></p>
+
 <div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+me!" alt="Typing SVG" /></a>
+<a href="https://github.com/albiecr"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+me!" alt="Typing SVG" /></a>
 </div>
 <div>
 <div align = "center">
