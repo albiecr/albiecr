@@ -23,7 +23,7 @@
 <br>
 <h2>📊 Statistics </h2>
 <div align = "center" style="display: block">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=albiecr&theme=jolly&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=albiecr&theme=jolly&show_icons=true&hide_border=true&count_private=true"/>
 <br>
 <img width = "500" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albiecr&theme=jolly&show_icons=true&hide_border=true&layout=compact"/>
 </div>
