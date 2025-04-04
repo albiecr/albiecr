@@ -25,7 +25,7 @@
 <div align = "center" style="display: block">
 <img src="https://github-readme-stats.vercel.app/api?username=albiecr&theme=jolly&show_icons=true&hide_border=true&count_private=true"/>
 <br>
-<img width = "500" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albiecr&theme=jolly&show_icons=true&hide_border=true&layout=compact"/>
+<img width = "465" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albiecr&theme=jolly&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <div align = "left">
