@@ -27,7 +27,6 @@
 <br>
 <img width = "465" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albiecr&theme=jolly&show_icons=true&hide_border=true&layout=compact"/>
 </div>
-
 <div align = "left">
 <h2>📧 Contact me </h2>
   <a href = "mailto:albertinacrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
