@@ -7,7 +7,7 @@
 <h2> <img width="3%" src = "https://github.com/user-attachments/assets/4b13fcf2-4db6-4355-83f2-36ff9d247b67" /> Albertina Rodrigues </h2>
 <p>
 <div align = "left"
-<p align="justify">Electrical Engineering Student with experience in financial data analysis for the energy sector. My first "Hello World" was during college when I discovered C++. When I'm not immersed in spreadsheets and code, you'll find me: </p>
+<p align="justify">Electrical Engineering Student with experience in financial data analysis for the energy sector. My first "Hello World" was during college when I discovered C++. Currently, I'm improving my skills in Java and Python, as well as MySQL database management. When I'm not immersed in spreadsheets and code, you'll find me: </p>
 
 ⚽Cheering for Flamengo and analyzing match statistics
 
@@ -15,7 +15,14 @@
 
 🪈Playing melodies on my flute - my creative escape
 
-📺Binge-watching crime series (and trying to guess the culprit before the finale) </p>
+📺Binge-watching crime series (and trying to guess the culprit before the finale)
+
+👥 Communities:
+
+⚡Active involvement in IEEE societies (SMC, CIS, WIN), staying current with automation trends, computational intelligence, and gender equity in engineering
+
+👩🏻‍💻Active member of the PyLadies Floripa community, contributing to the construction of a welcoming environment that promotes the development of women in the technology field  </p>
+
 </div>
 <br>
 <br>
@@ -48,8 +55,9 @@
 <div align = "left">
 <h2>💻 Studying </h2>  
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
 <br>
 <br>
 </div>
