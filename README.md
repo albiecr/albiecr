@@ -3,7 +3,7 @@
 
 <div align = "center">
 <a href="https://github.com/albiecr"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=45&pause=1000&color=EF82F7&width=480&height=60&lines=Welcome+to+my+profile!+" alt="Typing SVG" /></a></div>
-<img align = "right" height = "380" src = "https://github.com/user-attachments/assets/02d88568-26d1-4c8e-a5cf-dfcb69dc27ed" />
+<img align = "right" height = "380" src = "https://github.com/user-attachments/assets/baba2d16-989c-43ce-8dcc-3a334015bb99" />
 <h2> <img width="3%" src = "https://github.com/user-attachments/assets/4b13fcf2-4db6-4355-83f2-36ff9d247b67" /> Albertina Rodrigues </h2>
 <p>
 <div align = "left"
@@ -24,9 +24,6 @@
 👩🏻‍💻Active member of the PyLadies Floripa community, contributing to the construction of a welcoming environment that promotes the development of women in the technology field  </p>
 
 </div>
-<br>
-<br>
-<br>
 <br>
 <h2>📊 Statistics </h2>
 <div align = "center" style="display: block">
