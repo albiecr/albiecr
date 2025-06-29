@@ -29,6 +29,10 @@
 <div align = "center" style="display: block">
 <img src="https://github-readme-stats.vercel.app/api?username=albiecr&theme=jolly&show_icons=true&hide_border=true&count_private=true"/>
 <br>
+<img width = "465" src="https://github-readme-streak-stats.herokuapp.com/?user=albiecr&theme=jolly&hide_border=true"/>
+<br>
+<img width = "465" src="https://github-readme-activity-graph.vercel.app/graph?username=albiecr&bg_color=291b3e&color=dd58c4&line=dd58c1&point=a960ff&area=true&hide_border=true"/>
+<br>
 <img width = "465" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albiecr&theme=jolly&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 <div align = "left">
