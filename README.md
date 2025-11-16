@@ -84,10 +84,11 @@
 <div align = "center">
 <h2><a href="https://github.com/albiecr><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&background=DD11FF&center=true&vCenter=true&width=435&lines=Visit+Counter" alt="Typing SVG"/></a></h2></div> 
 <p align = "center"><img src ="https://github.com/user-attachments/assets/5456cd8f-68a5-483a-a5f1-3349e71182ae" /></p>
-<p align = "center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falbiecr&s=50&c=ff78cb&bg=00000000&no=2&ff=alien&tb=&ta=+visitors" alt="visits"></p>
 
 <div align = "center">
-<a href="https://github.com/albiecr"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+me!" alt="Typing SVG" /></a>
+<img src="https://komarev.com/ghpvc/?username=albiecr&style=flat-square&color=ff69b4" alt="Contador de Visualizações do Perfil no GitHub">
+
+  <a href="https://github.com/albiecr"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+me!" alt="Typing SVG" /></a>
 </div>
 <div>
 <div align = "center">
