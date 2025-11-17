@@ -89,11 +89,13 @@ When I'm not immersed in spreadsheets and code, you'll find me:<br> <br>
 <p align = "center"><img src ="https://github.com/user-attachments/assets/5456cd8f-68a5-483a-a5f1-3349e71182ae" /></p>
 
 <div align = "center">
-<img src="https://komarev.com/ghpvc/?username=albiecr&style=flat-square&color=ff69b4" alt="Contador de Visualizações do Perfil no GitHub">
+  <img src="https://komarev.com/ghpvc/?username=albiecr&style=flat-square&color=ff69b4"
+       alt="Contador de Visualizações do Perfil no GitHub"
+       width="250" />
 
   <a href="https://github.com/albiecr"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+me!" alt="Typing SVG" /></a>
 </div>
-<div>
+
 <div align = "center">
 💖💖💖
 <img width="100%" bottom=50px src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF78CB&section=footer&reversal=false&descAlign=22&descAlignY=42"/>
