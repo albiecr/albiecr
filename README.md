@@ -7,21 +7,19 @@
 <h2> <img width="3%" src = "https://github.com/user-attachments/assets/4b13fcf2-4db6-4355-83f2-36ff9d247b67" /> Albertina Rodrigues </h2>
 <p>
 <div align = "left"
-<p align="justify">Electrical Engineering Student with experience in financial data analysis for the energy sector. My first "Hello World" was during college when I discovered C++. Currently, I'm improving my skills in Java and Python, as well as MySQL database management. When I'm not immersed in spreadsheets and code, you'll find me: </p>
+<p align="justify">Electrical Engineering Student with experience in financial data analysis for the energy sector. Currently, I am a research scholar at the Fotovoltaica-UFSC Laboratory, where my activities focus on data pipelines and visualization of photovoltaic energy generation, including working with industrial network protocols. <br><br>
 
-⚽Cheering for Flamengo and analyzing match statistics
+My first "Hello World" was in college when I discovered C++. Today, I am enhancing my skills in Java and Python, and expanding into JavaScript and React, as well as database management with MySQL and PostgreSQL. <br>
+<br>
+When I'm not immersed in spreadsheets and code, you'll find me:<br> <br>
+⚽ Cheering for <a href="https://www.instagram.com/flamengoen" target="_blank">Flamengo</a> and analyzing match statistics; <br><br>
+📚 Reading books about inspiring real-life stories; <br><br>
+🪈 Playing melodies on my flute - my creative escape; <br><br>
+📺 Binge-watching crime series (and trying to guess the culprit before the finale). <br><br>
 
-📚Reading books about inspiring real-life stories
-
-🪈Playing melodies on my flute - my creative escape
-
-📺Binge-watching crime series (and trying to guess the culprit before the finale)
-
-👥 Communities:
-
-⚡Active involvement in IEEE societies (SMC, CIS, WIN), staying current with automation trends, computational intelligence, and gender equity in engineering
-
-👩🏻‍💻Active member of the PyLadies Floripa community, contributing to the construction of a welcoming environment that promotes the development of women in the technology field  </p>
+👥 Communities: <br><br>
+⚡ Active involvement in IEEE societies (SMC, CIS, WIN), staying current with automation trends, computational intelligence, and gender equity in engineering; <br><br>
+👩🏻‍💻 Active member of the PyLadies Floripa community, contributing to the construction of a welcoming environment that promotes the development of women in the technology field.  </p>
 
 </div>
 <br>
@@ -37,7 +35,8 @@
 </div>
 <div align = "left">
 <h2>📧 Contact me </h2>
-  <a href = "https://linktr.ee/albiecr"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
+  <a href="mailto:albertinacrodrigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="https://www.linkedin.com/in/albertina-rodrigues-a446a8282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"></a>
 </div>
 
 <div align = "left">
@@ -53,6 +52,7 @@
   <img src = "https://img.shields.io/badge/Power_Apps-993399?style=for-the-badge&logo=power-appsl&logoColor=white" />
   <img src = "https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 
@@ -60,19 +60,22 @@
 <h2>💻 Studying </h2>  
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />  
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src = "https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src = "https://img.shields.io/badge/Modbus-00A1F1?style=for-the-badge&logo=modbus&logoColor=white" />
+
 
 <br>
 <br>
 </div>
-<div align = "center">
-<h2><a href="https://github.com/albiecr"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&background=DD11FF&center=true&vCenter=true&width=435&lines=Feeding+my+little+snake+%F0%9F%90%8D" alt="Typing SVG" /></a></h2></div> 
+<div align = "left">
+<h2>🐍 Contribution chart </h2>  </div> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albiecr/albicr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albiecr/albiecr/output/github-contribution-grid-snake.svg">
@@ -81,8 +84,8 @@
 <br>
 <br>
 
-<div align = "center">
-<h2><a href="https://github.com/albiecr><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=300&size=35&pause=1000&color=FF78CB&background=DD11FF&center=true&vCenter=true&width=435&lines=Visit+Counter" alt="Typing SVG"/></a></h2></div> 
+<div align = "left">
+<h2>👁️ Visit counter  </h2></div> 
 <p align = "center"><img src ="https://github.com/user-attachments/assets/5456cd8f-68a5-483a-a5f1-3349e71182ae" /></p>
 
 <div align = "center">
