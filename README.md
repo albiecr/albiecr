@@ -89,7 +89,7 @@ When I'm not immersed in spreadsheets and code, you'll find me:<br> <br>
 <p align = "center"><img src ="https://github.com/user-attachments/assets/5456cd8f-68a5-483a-a5f1-3349e71182ae" /></p>
 
 <div align = "center">
-  <img src="https://komarev.com/ghpvc/?username=albiecr&style=flat-square&color=ff69b4"
+  <img src="https://komarev.com/ghpvc/?username=albiecr&style=plastic&color=ff69b4"
        alt="Contador de Visualizações do Perfil no GitHub"
        width="250" />
 
